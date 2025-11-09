@@ -54,7 +54,7 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 
-git clone [https://github.com/your-username/Guvi_RAG_Chatbot.git](https://github.com/your-username/Guvi_RAG_Chatbot.git)
+git clone https://github.com/Hida-Fathima/Guvi-RAG-Chatbot
 
 cd Guvi_RAG_Chatbot
 
