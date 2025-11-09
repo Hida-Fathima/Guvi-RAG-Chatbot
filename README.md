@@ -62,15 +62,15 @@ cd Guvi_RAG_Chatbot
 ### 2. Create and Activate a Virtual Environment
 
 
- Create the environment
+* Create the environment
  
 python -m venv guvi_rag_env
 
- Activate on Windows
+ >Activate on Windows
  
 .\guvi_rag_env\Scripts\activate
 
- Activate on Mac/Linux
+ >Activate on Mac/Linux
  
 source guvi_rag_env/bin/activate
 
@@ -81,13 +81,14 @@ pip install -r requirements.txt
 
 ### 4. Set Up Your API Key
 
-Create a file named .env in the main project folder.
+* Create a file named .env in the main project folder.
 
-Paste your Cohere API key into the .env file:
+* Paste your Cohere API key into the .env file:
 
 COHERE_API_KEY=your_trial_key_paste_it_here
 
 ### 5. Build the Vector Database
+
 You only need to run this command once (or any time you update guvi_data.txt).
 
 
