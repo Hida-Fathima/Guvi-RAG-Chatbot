@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+guvi_rag_env/
+venv/
+*.venv
+
+# Generated data (Don't upload the database)
+vector_store/
+
+# Secrets (NEVER upload this)
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
